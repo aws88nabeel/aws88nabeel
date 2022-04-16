@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aws88nabeel
 - 👀 I’m interested in ... C and Java
 - 🌱 I’m currently learning ... C
-- 💞️ I’m looking to collaborate on ... C learning
+- 💞️ I’m looking to collaborate on ... C Learning
 - 📫 How to reach me ... awsnabeel.info
 
 <!---
